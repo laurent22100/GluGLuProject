@@ -1,4 +1,5 @@
 # Polymer App Toolbox - Drawer Template
+LAURENT ET GUILLAUME FOREVER
 
 This template is a starting point for building apps using a drawer-based
 layout.  The layout is provided by `app-layout` elements.
